@@ -19,7 +19,7 @@ can be transferred to any server instance
 - Nginx:Reverse proxy
 - Letsencrypt & Certbot:SSL certificate
 - gunicorn:Production ready web server for python/djang0
-- Flower dashboard: For monitoring celery background tasks
+- Flower dashboard: Monitoring celery background tasks
 - PostgreSQL: Relational DB
 
 
